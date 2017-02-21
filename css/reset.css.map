@@ -1,0 +1,1 @@
+{"version":3,"file":"reset.css","sources":["reset.scss"],"sourcesContent":["html,\nbody,\nul,\nol {\n   margin: 0;\n  padding: 0;\n}\n"],"mappings":"AAAA,AAAA,IAAI;AACJ,AAAA,IAAI;AACJ,AAAA,EAAE;AACF,AAAA,EAAE,CAAC;EACA,MAAM,EAAE,CAAE;EACX,OAAO,EAAE,CAAE,GACZ","names":[],"sourceRoot":"/source/"}
